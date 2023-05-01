@@ -1,7 +1,7 @@
 {
-  "name": "tiny-node",
+  "name": "node-example",
   "version": "1.0.0",
-  "description": "tiny node server",
+  "description": "Node.js example app",
   "main": "",
   "scripts": {
     "start": "PORT=${PORT:-5000} serve ./src"
